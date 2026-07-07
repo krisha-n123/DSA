@@ -1,41 +1,41 @@
 class Solution {
   public:
-    
-    bool dfs(vector<vector<int>>& adj, vector<bool> &vis, vector<bool>& path, int curr){
-        vis[curr]=true;
-        path[curr]=true;
-        for(int v : adj[curr]){
-            
-            if(!vis[v]) {
-                if(dfs(adj, vis, path, v))
-                    return true;
-            }else if(path[v]){
-                return true;
-            }        
-            
-        }
-        path[curr] = false;
-        return false;
-    }
+
     
     bool isCyclic(int V, vector<vector<int>> &edges) {
         // code here
         vector<bool> vis(V, false);
-        vector<bool> path(V, false);
+        int ans=0;
         vector<vector<int>> adj(V);
         
-        for(auto &e: edges){
-            int u=e[0];
-            int v=e[1];
-            
-            adj[u].push_back(v);
+        for (auto &e : edges) {
+            adj[e[0]].push_back(e[1]);
         }
+        
+        vector<int> indegree(V, 0);
         for(int i=0;i<V;i++){
-            if(!vis[i] && !path[i] && dfs(adj, vis,path, i)){
-                return true;
+            for(int x : adj[i]){
+                indegree[x]++;
             }
         }
-        return false;
+        queue<int> q;
+        for(int i=0;i<V;i++){
+            if(indegree[i]==0){
+                q.push(i);
+            }
+        }
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            ans++;
+            for(int it : adj[node]){
+                indegree[it]--;
+                if(indegree[it]==0){
+                    q.push(it);
+                }
+            }
+        }
+        return ans<V?true:false;
         
         
     }
