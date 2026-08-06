@@ -6,6 +6,7 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/krisha-n123/DSA/tree/master/0371-sum-of-two-integers) |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/krisha-n123/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krisha-n123/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/krisha-n123/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
