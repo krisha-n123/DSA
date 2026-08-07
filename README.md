@@ -11,11 +11,13 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/krisha-n123/DSA/tree/master/0371-sum-of-two-integers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krisha-n123/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krisha-n123/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krisha-n123/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/krisha-n123/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
