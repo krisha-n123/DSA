@@ -6,6 +6,7 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/krisha-n123/DSA/tree/master/0371-sum-of-two-integers) |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krisha-n123/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
@@ -23,18 +24,22 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +62,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krisha-n123/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
