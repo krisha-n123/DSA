@@ -18,6 +18,7 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krisha-n123/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisha-n123/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krisha-n123/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/krisha-n123/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -44,11 +45,13 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krisha-n123/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisha-n123/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/krisha-n123/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krisha-n123/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisha-n123/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/krisha-n123/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
