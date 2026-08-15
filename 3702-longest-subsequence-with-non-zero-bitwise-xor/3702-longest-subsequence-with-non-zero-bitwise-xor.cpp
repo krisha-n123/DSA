@@ -1,13 +1,17 @@
 class Solution {
 public:
     int longestSubsequence(vector<int>& nums) {
-        int xorSum = 0;
-        bool allZero = true;
-        for (int num : nums) {
-            xorSum ^= num;
-            if (num != 0) allZero = false;
+        int ans = 0;
+        int allzero=1;
+        for (int i = 0; i < nums.size(); i++) {
+            
+            ans=ans^nums[i];
+            if(nums[i]) allzero=0;
+
         }
-        if (allZero) return 0;
-        return xorSum != 0 ? nums.size() : nums.size() - 1;
+        if(allzero) return 0;
+        if(ans!=0) return nums.size();
+
+        return nums.size()-1;
     }
 };
