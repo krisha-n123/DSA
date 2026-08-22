@@ -1,26 +1,22 @@
 class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
-        vector<int> arr1;
-        vector<int> arr2;
+        int a = 0, b = 1;
 
-        arr1.push_back(nums[0]);
-        arr2.push_back(nums[1]);
+        int i = 2, n = nums.size();
 
-        for(int i=2;i<nums.size();i++){
-            if(arr1.back()>arr2.back()){
-                arr1.push_back(nums[i]);
-            }else{
-                arr2.push_back(nums[i]);
+        while (i < n) {
+            if (nums[a] > nums[b]) {
+                int temp = nums[i];
+                for (int j = i; j > a + 1; j--) {
+                    nums[j] = nums[j - 1];
+                }
+                nums[a+1] = temp;a++;
+                b++;
+            } else {
+                b++;
             }
-        }
-
-        int k=0;
-        for(int i=0;i<arr1.size();i++){
-            nums[k++]=arr1[i];
-        }
-        for(int i=0;i<arr2.size();i++){
-            nums[k++]=arr2[i];
+            i++;
         }
         return nums;
     }
