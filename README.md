@@ -94,6 +94,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krisha-n123/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krisha-n123/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
@@ -116,4 +117,5 @@
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/krisha-n123/DSA/tree/master/0097-interleaving-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krisha-n123/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
