@@ -118,4 +118,8 @@
 | ------- |
 | [0097-interleaving-string](https://github.com/krisha-n123/DSA/tree/master/0097-interleaving-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krisha-n123/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/krisha-n123/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
