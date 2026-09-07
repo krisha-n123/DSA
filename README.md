@@ -44,6 +44,7 @@
 | ------- |
 | [0097-interleaving-string](https://github.com/krisha-n123/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/krisha-n123/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/krisha-n123/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -128,6 +129,7 @@
 | ------- |
 | [0097-interleaving-string](https://github.com/krisha-n123/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/krisha-n123/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/krisha-n123/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krisha-n123/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
 |  |
