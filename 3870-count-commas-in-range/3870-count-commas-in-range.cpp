@@ -4,7 +4,7 @@ public:
         if(n<=999){
             return 0;
         }else {
-            return abs(n-1000+1);
+            return n-999;
         }
     }
 };
