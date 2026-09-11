@@ -1,32 +1,26 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        int freq[10] = {};
-        for (int x : digits) {
-            freq[x]++;
-        }
-        int ans = 0;
-
-        for (int a = 1; a <= 9; a++) {
-            for (int b = 0; b <= 9; b++) {
-                for (int c = 0; c <= 8; c += 2) {
-
-                    int need[10] = {};
-                    need[a]++;
-                    need[b]++;
-                    need[c]++;
-
-                    bool possible = true;
-
-                    for (int d = 0; d <= 9; d++) {
-                        if (need[d] > freq[d]) {
-                            possible = false;
-                            break;
+        int n = digits.size();
+        unordered_set<int> s;
+        int ans=0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                for (int k = 0; k < n; k++) {
+                    if (digits[i] == 0)
+                        continue;
+                    if (i == j || j == k || i == k) {
+                        continue;
+                    }
+                    int num = digits[i] * 100 + digits[j] * 10 + digits[k] * 1;
+                    if (num % 2 == 0) {
+                        if (s.count(num)) {
+                            continue;
+                        } else {
+                            s.insert(num);
+                            ans++;
                         }
                     }
-
-                    if (possible)
-                        ans++;
                 }
             }
         }
