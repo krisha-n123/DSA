@@ -27,6 +27,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krisha-n123/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krisha-n123/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0835-image-overlap](https://github.com/krisha-n123/DSA/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/krisha-n123/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/krisha-n123/DSA/tree/master/2029-stone-game-ix) |
@@ -151,6 +152,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/krisha-n123/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krisha-n123/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
