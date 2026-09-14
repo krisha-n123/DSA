@@ -6,6 +6,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krisha-n123/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/krisha-n123/DSA/tree/master/0371-sum-of-two-integers) |
+| [0836-rectangle-overlap](https://github.com/krisha-n123/DSA/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/krisha-n123/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/krisha-n123/DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/krisha-n123/DSA/tree/master/2029-stone-game-ix) |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/krisha-n123/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/krisha-n123/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
