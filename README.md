@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krisha-n123/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krisha-n123/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0097-interleaving-string](https://github.com/krisha-n123/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/krisha-n123/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/krisha-n123/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krisha-n123/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/krisha-n123/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krisha-n123/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krisha-n123/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/krisha-n123/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krisha-n123/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
