@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/krisha-n123/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/krisha-n123/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/krisha-n123/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/krisha-n123/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/krisha-n123/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krisha-n123/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/krisha-n123/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krisha-n123/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krisha-n123/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krisha-n123/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krisha-n123/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krisha-n123/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/krisha-n123/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/krisha-n123/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/krisha-n123/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/krisha-n123/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -234,6 +237,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/krisha-n123/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krisha-n123/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/krisha-n123/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krisha-n123/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krisha-n123/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krisha-n123/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
