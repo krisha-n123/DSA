@@ -206,6 +206,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/krisha-n123/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krisha-n123/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krisha-n123/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/krisha-n123/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krisha-n123/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krisha-n123/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/krisha-n123/DSA/tree/master/3498-reverse-degree-of-a-string) |
